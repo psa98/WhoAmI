@@ -2,7 +2,9 @@
 Немного обо мне
 
 Андроид разработчик с 2019 года. Писал программы еще для ЕС ЭВМ. Ранее эксперт в области налогов, учета и документооборота.
-Моя аудио-библиотека для Андроид, с примерным функционалом javax.sound.sampled и упрощенным API - https://github.com/psa98/AudioStreams
+Моя аудио-библиотека для Андроид, с примерным функционалом javax.sound.sampled и упрощенным API - 
+https://github.com/psa98/AudioStreams
+
 Приложения написанные с ее использованием:
 
 https://play.google.com/store/apps/details?id=c.ponom.recorder2
